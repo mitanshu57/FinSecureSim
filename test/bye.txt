@@ -1,0 +1,3 @@
+this is bye.txt file!
+bye!!!
+pass- 1234
